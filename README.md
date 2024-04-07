@@ -11,8 +11,8 @@
 
 > Terminal only accepts ANSI color.<br>
 > Username: admin<br>
-> Password: admin<br>
-<p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+> Password: ********<br>
+<p align="center">  <a href="https://www.instagram.com/theonlychaaaaa__"><img width="160" height="50" src="https://www.instagram.com/trevorx_403"></a></p>
  
 ## Language</br>
 
@@ -22,11 +22,9 @@
  ## Logs</br>
  - NEW OVH-BEAM METHODS!
  - Hi all, there are fools scam tool github for 20usd
-- Image scammer:
-https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
  
 ## Screenshot
-![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
+![lk](https://i.ibb.co/7KQmBch/Bandicam-2024-04-12-22-11-34-101.jpg)
 
 # Tree
 * [Read now pls](#README)
@@ -74,7 +72,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
+git clone https://github.com/B0BMAKER/ZxCDDoS/
 cd ZxCDDoS/
 npm i requests
 npm i https-proxy-agent
@@ -98,15 +96,15 @@ python3 c2.py
 
 # Credits
 ```sh
-zxcr9999 (Reworked CnC and added some methods .-.)
-SkyWtkhIsBack (Example Panel and L7 methods <3)
-Empfaked (Layer 7 methods <3)
-HyukIsBack (Layer 7 methods <3)
-im-federal (Layer 4 and AMP methods <3)
-R00tS3C (Layer 4 and AMP methods <3)
-forkyyy (LAYER 7 METHODS <3)
-Leeon123 (SPECIAL METHODS <3)
-TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
+(Reworked CnC and added some methods .-.)
+(Example Panel and L7 methods <3)
+(Layer 7 methods <3)
+(Layer 7 methods <3)
+(Layer 4 and AMP methods <3)
+(Layer 4 and AMP methods <3)
+(LAYER 7 METHODS <3)
+(SPECIAL METHODS <3)
+(HTTP, SOCKS5, SOCK4 proxies <3)
 ```
 
 # TOS:
@@ -118,6 +116,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
-Discord: zxcr9999#1770
+Instagram Admin: https://www.instagram.com/theonlychaaaaa__
+Instagram Owner: https://www.instagram.com/trevorx_403
 ```
