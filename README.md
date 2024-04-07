@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.4 - Free DDoS Panel 🚀
+# 🚀 X403: Release v1.4 - Free DDoS Panel 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -9,7 +9,7 @@
  
 </p>
 
-> Terminal only accepts ANSI color.<br>
+> Terminal Ddos color.<br>
 > Username: admin<br>
 > Password: ********<br>
 <p align="center">  <a href="https://www.instagram.com/theonlychaaaaa__"><img width="160" height="50" src="https://www.instagram.com/trevorx_403"></a></p>
@@ -20,8 +20,9 @@
  </div>
  
  ## Logs</br>
- - NEW OVH-BEAM METHODS!
- - Hi all, there are fools scam tool github for 20usd
+ - NEW METHODS DDOS X403!
+ - https://www.instagram.com/theonlychaaaaa__
+ - https://www.instagram.com/trevorx_403
  
 ## Screenshot
 ![lk](https://i.ibb.co/7KQmBch/Bandicam-2024-04-12-22-11-34-101.jpg)
