@@ -9,7 +9,7 @@
  
 </p>
 
-> Terminal Ddos color.<br>
+> Terminal Ddos Methood.<br>
 > Username: admin<br>
 > Password: ********<br>
 <p align="center">  <a href="https://www.instagram.com/theonlychaaaaa__"><img width="160" height="50" src="https://www.instagram.com/trevorx_403"></a></p>
